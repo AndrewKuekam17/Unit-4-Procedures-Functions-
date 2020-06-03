@@ -1,0 +1,10 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\ProceduceAndrewk\ProceduceAndrewk\bin\Debug\ProceduceAndrewk.exe.config
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\ProceduceAndrewk\ProceduceAndrewk\bin\Debug\ProceduceAndrewk.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\ProceduceAndrewk\ProceduceAndrewk\bin\Debug\ProceduceAndrewk.pdb
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\ProceduceAndrewk\ProceduceAndrewk\obj\Debug\ProceduceAndrewk.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\ProceduceAndrewk\ProceduceAndrewk\obj\Debug\ProceduceAndrewk.frmAreaProcedure.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\ProceduceAndrewk\ProceduceAndrewk\obj\Debug\ProceduceAndrewk.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\ProceduceAndrewk\ProceduceAndrewk\obj\Debug\ProceduceAndrewk.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\ProceduceAndrewk\ProceduceAndrewk\obj\Debug\ProceduceAndrewk.csproj.CoreCompileInputs.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\ProceduceAndrewk\ProceduceAndrewk\obj\Debug\ProceduceAndrewk.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\ProceduceAndrewk\ProceduceAndrewk\obj\Debug\ProceduceAndrewk.pdb
