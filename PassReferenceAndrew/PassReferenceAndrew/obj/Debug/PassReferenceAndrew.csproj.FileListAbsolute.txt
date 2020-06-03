@@ -1,0 +1,10 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\PassReferenceAndrew\PassReferenceAndrew\bin\Debug\PassReferenceAndrew.exe.config
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\PassReferenceAndrew\PassReferenceAndrew\bin\Debug\PassReferenceAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\PassReferenceAndrew\PassReferenceAndrew\bin\Debug\PassReferenceAndrew.pdb
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\PassReferenceAndrew\PassReferenceAndrew\obj\Debug\PassReferenceAndrew.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\PassReferenceAndrew\PassReferenceAndrew\obj\Debug\PassReferenceAndrew.frmPassbyReferenceandClickEvents.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\PassReferenceAndrew\PassReferenceAndrew\obj\Debug\PassReferenceAndrew.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\PassReferenceAndrew\PassReferenceAndrew\obj\Debug\PassReferenceAndrew.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\PassReferenceAndrew\PassReferenceAndrew\obj\Debug\PassReferenceAndrew.csproj.CoreCompileInputs.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\PassReferenceAndrew\PassReferenceAndrew\obj\Debug\PassReferenceAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\PassReferenceAndrew\PassReferenceAndrew\obj\Debug\PassReferenceAndrew.pdb
