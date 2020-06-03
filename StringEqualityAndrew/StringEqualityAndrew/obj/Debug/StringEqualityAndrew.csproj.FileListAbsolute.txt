@@ -1,0 +1,10 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\StringEqualityAndrew\StringEqualityAndrew\bin\Debug\StringEqualityAndrew.exe.config
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\StringEqualityAndrew\StringEqualityAndrew\bin\Debug\StringEqualityAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\StringEqualityAndrew\StringEqualityAndrew\bin\Debug\StringEqualityAndrew.pdb
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\StringEqualityAndrew\StringEqualityAndrew\obj\Debug\StringEqualityAndrew.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\StringEqualityAndrew\StringEqualityAndrew\obj\Debug\StringEqualityAndrew.frmStringEquality.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\StringEqualityAndrew\StringEqualityAndrew\obj\Debug\StringEqualityAndrew.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\StringEqualityAndrew\StringEqualityAndrew\obj\Debug\StringEqualityAndrew.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\StringEqualityAndrew\StringEqualityAndrew\obj\Debug\StringEqualityAndrew.csproj.CoreCompileInputs.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\StringEqualityAndrew\StringEqualityAndrew\obj\Debug\StringEqualityAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\StringEqualityAndrew\StringEqualityAndrew\obj\Debug\StringEqualityAndrew.pdb
