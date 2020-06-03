@@ -1,0 +1,10 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\CalculateTheHypotenuseAndrew\CalculateTheHypotenuseAndrew\bin\Debug\CalculateTheHypotenuseAndrew.exe.config
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\CalculateTheHypotenuseAndrew\CalculateTheHypotenuseAndrew\bin\Debug\CalculateTheHypotenuseAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\CalculateTheHypotenuseAndrew\CalculateTheHypotenuseAndrew\bin\Debug\CalculateTheHypotenuseAndrew.pdb
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\CalculateTheHypotenuseAndrew\CalculateTheHypotenuseAndrew\obj\Debug\CalculateTheHypotenuseAndrew.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\CalculateTheHypotenuseAndrew\CalculateTheHypotenuseAndrew\obj\Debug\CalculateTheHypotenuseAndrew.frmCalculatetheHypotenuse.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\CalculateTheHypotenuseAndrew\CalculateTheHypotenuseAndrew\obj\Debug\CalculateTheHypotenuseAndrew.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\CalculateTheHypotenuseAndrew\CalculateTheHypotenuseAndrew\obj\Debug\CalculateTheHypotenuseAndrew.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\CalculateTheHypotenuseAndrew\CalculateTheHypotenuseAndrew\obj\Debug\CalculateTheHypotenuseAndrew.csproj.CoreCompileInputs.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\CalculateTheHypotenuseAndrew\CalculateTheHypotenuseAndrew\obj\Debug\CalculateTheHypotenuseAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit-4-Procedures & Functions\CalculateTheHypotenuseAndrew\CalculateTheHypotenuseAndrew\obj\Debug\CalculateTheHypotenuseAndrew.pdb
